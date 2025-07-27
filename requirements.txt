@@ -1,0 +1,36 @@
+# Core
+pandas
+openpyxl              
+python-dotenv
+altair
+torch
+scikit-learn
+scipy
+numpy
+
+
+
+# Streamlit frontend
+streamlit
+plotly                 
+
+# LLM & Embeddings
+transformers
+sentence-transformers
+
+# Vector DB
+chromadb
+
+# Backend
+fastapi
+uvicorn
+
+# Utils
+tqdm
+
+scikit-learn         
+matplotlib            
+PyMuPDF            
+
+# Testing
+pytest

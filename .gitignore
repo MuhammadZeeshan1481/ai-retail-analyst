@@ -1,0 +1,28 @@
+# Python-related
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.log
+*.bak
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# IDE-related files
+.vscode/
+.idea/
+
+# Dataset and model files
+data/uploads/
+embeddings.pkl
+
+# Docker-related
+Dockerfile
+docker-compose.yml
