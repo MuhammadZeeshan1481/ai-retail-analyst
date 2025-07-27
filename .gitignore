@@ -26,3 +26,4 @@ embeddings.pkl
 # Docker-related
 Dockerfile
 docker-compose.yml
+.env
