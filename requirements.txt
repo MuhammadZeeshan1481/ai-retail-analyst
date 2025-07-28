@@ -17,6 +17,7 @@ Brlapi==0.8.5
 build==1.2.2.post1
 cachetools==5.3.0
 certifi==2023.11.17
+cffi==1.17.1
 chardet==5.2.0
 charset-normalizer==3.4.2
 chromadb==1.0.15
@@ -151,6 +152,7 @@ pyasn1==0.4.8
 pyasn1-modules==0.2.8
 pybase64==1.4.1
 pycairo==1.25.1
+pycparser==2.22
 pycups==2.0.1
 pydantic==2.11.7
 pydantic-settings==2.10.1
